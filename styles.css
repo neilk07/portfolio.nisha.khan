@@ -1295,10 +1295,17 @@ img {
 
   .footer__socials {
       justify-self: flex-end;
+      color: #fefefe;
   }
 
   .footer__copy {
       margin-top: 4.5rem;
+      color:#fefefe;
+      background-color: #1a1a1a;
+  }
+
+  .footer_socials a:hover {
+      color: #4e89ff;
   }
 
   .swiper-slide {
